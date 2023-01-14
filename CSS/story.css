@@ -1,0 +1,31 @@
+.story{
+    background-color: #130e27;
+    width: 1200px;
+    margin: 0 auto;
+}
+.story_inner {
+    padding-top: 31px;
+    padding-bottom: 24px;
+    background-color: #130e27;
+    display: flex;
+    justify-content: space-between;
+}
+.story .text {
+    color: #ffffff;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    line-height: 28px;
+    max-width: 650px;
+    margin-left: 21px;
+}
+.Story_ref {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    line-height: 28px;
+    text-decoration: none;
+    padding: 24px 65px;
+    background-color: #c62314;
+    text-transform: uppercase;
+    border-radius: 10px;
+}

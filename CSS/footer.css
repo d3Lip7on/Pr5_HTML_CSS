@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'QuiteChocolatey';
+    src: url(../fonts/Quite\ Chocolatey.ttf);
+}
+
+footer{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #130e27;
+}
+
+.footer_inner{
+    display: flex;
+    justify-content: space-between;
+    padding: 81px 0px;
+}
+.footer_all_text{
+    display: flex;
+}
+.footer_text {
+    color: #817e8c;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    line-height: 20px;
+}
+.footer_colored_text {
+    color: #c62314;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    line-height: 20px;
+}
+.footer_avtomotive {
+    color: #c62314;
+    font-family: 'QuiteChocolatey';
+    font-size: 64px;
+    line-height: 23px;
+}

@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'couture-bld';
+    src: url(../fonts/couture-bld.otf);
+}
+
+.sevices {
+    background-color: #fff;
+}
+.services_inner {
+    display: flex;
+    flex-direction: column;
+}
+.service_words {
+    display: flex;
+    text-transform: uppercase;
+    font-family: 'couture-bld';
+    font-size: 50px;
+    line-height: 80px;
+    padding-top: 45px;
+    padding-left: 17px;
+}
+.first_word {
+    color: #c62314;
+}
+.last_word {
+    margin-left: 12px;
+}
+.service_cards {
+    margin-top: 78px;
+    padding-left: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.item {
+    text-align: center;
+}
+.service_text {
+    max-width: 190px;
+    margin-top: 45px;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    line-height: 28px;
+    padding-bottom: 68px;
+}
